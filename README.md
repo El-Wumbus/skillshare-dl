@@ -1,7 +1,7 @@
 # Skillshare downloader
 
 Install/Build Dependencies: *`pip`*  
-Dependencies: *`python3`, `python-slugify`, `requests`*
+Dependencies: *`python3`
 
 ## Setup
 --------
