@@ -18,7 +18,7 @@ get_cookie() {
 clear
 
 get_cookie
-eho "Working..."
+ehco "Working..."
 echo "$cookie" >./cookie.py
 
 clear
