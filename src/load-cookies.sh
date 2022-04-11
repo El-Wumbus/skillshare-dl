@@ -18,7 +18,7 @@ get_cookie() {
 clear
 
 get_cookie
-Write-Host "Working..."
+eho "Working..."
 echo "$cookie" >./cookie.py
 
 clear
